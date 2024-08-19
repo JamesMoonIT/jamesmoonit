@@ -1,2 +1,2 @@
 
-![Logo](https://i.imgur.com/IKKKEzi.gif)
+![Logo](/logo.gif)
